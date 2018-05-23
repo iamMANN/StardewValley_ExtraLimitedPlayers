@@ -1,2 +1,2 @@
 # StardewValley_ExtraLimitedPlayers
-This mod removes the maximum player and cabin restriction for Multiplayer in Stardew Valley
+This mod removes the maximum cabin restriction but restricts the farmhand count to 0 for Multiplayer in Stardew Valley.
